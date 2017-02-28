@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello, World!
+title: TEST
 ---
 
-# This is my first post! WOOOOO!!
+This is my first post! WOOOOO!!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
