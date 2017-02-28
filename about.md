@@ -13,5 +13,4 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 Feel free to email me at [mwelk11@gmail.com](mailto:mwelk11@gmail.com)
-
 I can also be found on [LinkedIn](www.linkedin.com/in/matthew-welk-a2b2756a)
