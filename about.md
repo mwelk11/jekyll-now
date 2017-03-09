@@ -8,9 +8,9 @@ I am a software developer currently living in Boston, MA. I grew up in Bucks Cou
 
 ### Projects
 
-[Video Game Website](https://github.com/mwelk11/Video-Game-Website): A website that I am continually adding to as I have time. Technologies used are AngularJS (frontend), NodeJS (backend), and mySQL.
+**[Video Game Website]**(https://github.com/mwelk11/Video-Game-Website): A website that I am continually adding to as I have time. Technologies used are AngularJS (frontend), NodeJS (backend), and mySQL.
 
-Data Structures: Creating Java data structures from scratch with JUnit tests. These include:
+**Data Structures**: Creating Java data structures from scratch with JUnit tests. These include:
    * [Binary Search Tree](https://github.com/mwelk11/BST-Data-Structure)
 
 ### Contact me
