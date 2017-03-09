@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer currently living in Boston, MA. I grew up in Bucks County, PA and attended the Pennsylvania State University for Computer Engineering. I put together this blog to share anything interesting that I am working on. I am always open to new opportunities and challenges. I love to learn and solve interesting problems.
+I am a software developer currently living in Boston, MA. I grew up in Bucks County, PA. I obtained my Bachelor's degree in Computer Engineering from The Pennsylvania State University. I put together this blog to share anything interesting that I am working on. I am always open to new opportunities and challenges. I love to learn and solve interesting problems.
 
-### More Information
+### Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+[Video Game Website](https://github.com/mwelk11/Video-Game-Website): A website that I am continually adding to as I have time. Technologies used are AngularJS (frontend), NodeJS (backend), and mySQL.
+
+Data Structures: Creating Java data structures from scratch with JUnit tests. These include:
+   * [Binary Search Tree](https://github.com/mwelk11/BST-Data-Structure)
 
 ### Contact me
 
