@@ -8,9 +8,11 @@ I am a software developer currently living in Boston, MA. I grew up in Bucks Cou
 
 ### Projects
 
-* [Video Game Website](https://github.com/mwelk11/Video-Game-Website): A website that I am continually adding to as I have time. Technologies used are AngularJS (frontend), NodeJS (backend), and mySQL.  
-* Data Structures: Creating Java data structures from scratch with JUnit tests. These include:  
-   * [Binary Search Tree](https://github.com/mwelk11/BST-Data-Structure)  
+* [Video Game Website](https://github.com/mwelk11/Video-Game-Website): A website that I am continually adding to as I have time. Technologies used are AngularJS (frontend), NodeJS (backend), and mySQL.
+
+* Data Structures: Creating Java data structures from scratch with JUnit tests. These include:
+   * [Binary Search Tree](https://github.com/mwelk11/BST-Data-Structure)
+ 
 * [This Blog](https://github.com/mwelk11/mwelk11.github.io): I created this blog by forking [Jekyll Now](https://github.com/barryclark/jekyll-now). It builds off of the original [Jekyll](https://github.com/jekyll/jekyll) repository, but made setup a little bit easier.
 
 ### Contact me
