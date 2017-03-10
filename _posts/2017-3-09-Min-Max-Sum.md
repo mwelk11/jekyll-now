@@ -10,7 +10,7 @@ This is my first coding problem post! I hope you enjoy!
 Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. 
 Then print the respective minimum and maximum values as a single line of two space-separated long integers.
 
-#### Initial Thoughts
+### Initial Thoughts
 
 I decided to implement a function that takes in an array of any size, and calculates the min/max sum of that array minus one number. 
 If we are calculating the min/max of a set of numbers by removing one number, then the min can be calculated by removing the 
