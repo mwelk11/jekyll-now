@@ -12,7 +12,11 @@ I am a software developer currently living in Boston, MA. I grew up in Bucks Cou
 
 * Data Structures: Creating Java data structures from scratch with JUnit tests. These include:
    * [Binary Search Tree](https://github.com/mwelk11/BST-Data-Structure)  
-
+  
+    
+        
+              
+                                    
 * [This Blog](https://github.com/mwelk11/mwelk11.github.io): I created this blog by forking [Jekyll Now](https://github.com/barryclark/jekyll-now). It builds off of the original [Jekyll](https://github.com/jekyll/jekyll) repository, but made setup a little bit easier.
 
 ### Contact me
