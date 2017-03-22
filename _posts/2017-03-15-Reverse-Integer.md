@@ -3,6 +3,8 @@ layout: post
 title: LeetCode - Reverse Integer
 ---
 
+Decided to head over to LeetCode and pick the first problem that caught my eye. Here it goes...
+
 ### [Problem Statement](https://leetcode.com/problems/reverse-integer/#/description)
 
 Reverse digits of an integer. The input is assumed to be a 32-bit signed integer. 
