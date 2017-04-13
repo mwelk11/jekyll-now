@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Group Anagrams - Cracking the Coding Interview
+title: Cracking the Coding Interview - Group Anagrams
 ---
 
 I took this problem from the book *Cracking the Coding Interview* by Gayle Laakmann McDowell.
