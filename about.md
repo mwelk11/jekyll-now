@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer currently living in Boston, MA. I grew up in Bucks County, PA. I obtained my Bachelor's degree in Computer Engineering from The Pennsylvania State University. I put together this blog to share anything interesting that I am working on. I am always open to new opportunities and challenges. I love to learn and solve interesting problems.
+I am a software developer currently living in Seattle, WA. I grew up in Bucks County, PA. I obtained my Bachelor's degree in Computer Engineering from The Pennsylvania State University. I put together this blog to share anything interesting that I am working on. I am always open to new opportunities and challenges. I love to learn and solve interesting problems.
 
 ### Projects
 
