@@ -18,6 +18,5 @@ Every time you do the kata, you may come up with a  different implementation of 
 
 In posts to come, I will walk through an actual Code Kata and how I might go about solving it. In the meantime, there are a number of YouTube videos of Code Kata walkthroughs. Below are a couple videos from The Code Dojo:
 
-[Bowling Game](https://www.youtube.com/watch?v=OPGTPQ4kURU)
-
-[FizzBuzz](https://www.youtube.com/watch?v=JyRouDwzCoo)
+*[Bowling Game](https://www.youtube.com/watch?v=OPGTPQ4kURU)
+*[FizzBuzz](https://www.youtube.com/watch?v=JyRouDwzCoo)
